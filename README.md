@@ -55,6 +55,8 @@ Current Ripple (Delta I) = 0.1A
 <img width="1315" height="520" alt="Screenshot 2026-05-24 120255" src="https://github.com/user-attachments/assets/9c25cf12-993f-4fe6-aa9d-43c3f18d4cb2" />
 
 ## Output
+
+
 <img width="1919" height="901" alt="Screenshot 2026-05-24 120233" src="https://github.com/user-attachments/assets/e46e94c1-f26a-45fc-9545-9beb24e51c22" />
 
 ## Result
